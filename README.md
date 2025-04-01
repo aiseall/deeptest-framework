@@ -1,7 +1,7 @@
 # deeptest-framework
 基于DeepSeek等大模型的开源智能新一代测试框架
 
-![美丽的风景](https://example.com/scenery.jpg "美丽的自然风景")
+![Coming Soon](https://github.com/aiseall/deeptest-framework/blob/main/4859a690ea09c9fea9736239a30b23a1.jpeg "Coming Soon")
 -----------
 
 ## 一、框架优势解析
